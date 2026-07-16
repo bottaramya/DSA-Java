@@ -17,15 +17,14 @@ I am practicing DSA concepts and improving problem-solving skills.
 - Armstrong Number
 - Print all Divisors
 - Check Prime Number
-
-### Basic Recursion
-- Print Name N Times using Recursion
+  
+### Basic Problems
 - Print 1 to N using Recursion
-- Print N to 1 using Recursion
+- Print N to 1 
 - Sum of First N Numbers
 - Factorial of a Number
-- Reverse an Array using Recursion
-- Check String Palindrome using Recursion
+- Reverse an Array
+- Check String Palindrome 
 - Fibonacci Number
 
 ## Language Used
