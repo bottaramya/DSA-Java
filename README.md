@@ -27,6 +27,15 @@ I am practicing DSA concepts and improving problem-solving skills.
 - Check String Palindrome 
 - Fibonacci Number
 
+ ### Pattern Problems
+- Basic Star Patterns
+- Pyramid & Triangle Patterns
+- Number Patterns
+- Character Patterns
+- Hollow Patterns
+- Symmetric Patterns
+- 22 Pattern Programming Problems
+
 ## Language Used
 
 - Java
